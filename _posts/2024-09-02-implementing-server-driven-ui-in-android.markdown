@@ -23,6 +23,7 @@ Below is an example of how we can implement a screen like the one in the below s
 
 ![starting-image](/assets/images/post/server_driven_phone_screenshot.webp){: width="400" height="500" }
 
+
 The server sends a JSON structure that describes the UI components and their arrangement on the screen. The client app then renders the UI based on this data.
 
 ## Example JSON for UI Components
