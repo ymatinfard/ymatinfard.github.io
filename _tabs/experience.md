@@ -3,11 +3,18 @@ icon: fas fa-tags
 order: 4
 ---
 
+
+
+
 ### Senior Android Developer
 **Sadad Informatics Corporation, Iran**  
 _Remote_  
 *Jun 2022 - Present*
 [Baam App](https://cafebazaar.ir/app/ir.bmi.bam.nativeweb?l=en)
+
+<div style="text-align: left;">
+  <img src="assets/images/company_logo/baam_ic.png" alt="Company Logo" width="100" height="100" style="border-radius: 50%; margin-right: 10px;">
+</div>
 
 ### Baam App
 - Played a key role in the development and architectural design of a high-impact product with over 10 million installations.
@@ -27,6 +34,10 @@ Another important task I contributed to was the implementation of **server-drive
 **Exbito Company, Iran**  
 *Jul 2021 - Jun 2022* [Exbito App](https://play.google.com/store/apps/details?id=com.exbito.app&hl=en&pli=1)
 
+<div style="text-align: left;">
+  <img src="assets/images/company_logo/exbito_ic.jpg" alt="Company Logo" width="100" height="100" style="border-radius: 50%; margin-right: 10px;">
+</div>
+
 #### Exbito App
 - Developed Android applications from scratch, leveraging real-time data and implementing robust concurrency management techniques.
 - Conducted comprehensive code reviews, ensuring adherence to coding standards.
@@ -40,15 +51,20 @@ Performance and user experience were core values that shaped our development pro
 In the fast-paced startup environment, I gained valuable experience in concurrency management, performance optimization, and **rigorous testing** standards—skills that have significantly enhanced my abilities as a Senior Android Developer.
 
 ### Android Developer
-**Cellular Company, Germany**  
+**FFW Company, Germany**  
 *July 2020 - Jan 2021* [ZDFMediathek App](https://play.google.com/store/apps/details?id=com.zdf.android.mediathek&hl=en)
 
+<div style="text-align: left;">
+  <img src="assets/images/company_logo/ffw_ic.png" alt="Company Logo" width="100" height="100" style="border-radius: 50%; margin-right: 10px;">
+</div>
+
+#### ZDFMediathek App
 - Developed the application based on provided specifications, ensuring alignment with project requirements.
 - Executed the migration of specific project components to Kotlin, enhancing codebase efficiency and modernization.
 - Conducted UI reorganization to enhance user experience, incorporating custom views to elevate the application's look and feel.
 - Proactively addressed and resolved production and QA issues.
 
-At Cellular Company, a software solution provider company in Germany, I worked on developing the ZDFMediathek app, which allows users to stream content from ZDF, a popular German TV channel. This role was a unique opportunity to dive into the media streaming domain, where I gained hands-on experience with **ExoPlayer**, a powerful video player library crucial for smooth, high-quality streaming.
+At FFW(cellular) Company, a software solution provider company in Germany, I worked on developing the ZDFMediathek app, which allows users to stream content from ZDF, a popular German TV channel. This role was a unique opportunity to dive into the media streaming domain, where I gained hands-on experience with **ExoPlayer**, a powerful video player library crucial for smooth, high-quality streaming.
 
 During my time on the project, I focused on building and refining **custom views** to enhance the user experience. Streaming applications demand a seamless interface that’s both functional and visually engaging, so I crafted custom UI components to provide users with an intuitive and enjoyable experience. I also worked on integrating new features to improve the app's overall functionality, ensuring that it not only met but exceeded user expectations in a competitive streaming environment.
 
@@ -58,6 +74,10 @@ One of the exciting aspects of this role was developing for **Android TV**, wher
 **Pars Tasmim Company, Iran**  
 *Nov 2017 - Jan 2020*
 
+<div style="text-align: left;">
+  <img src="assets/images/company_logo/parse_tasmim_ic.webp" alt="Company Logo" width="100" height="100" style="border-radius: 50%; margin-right: 10px;">
+</div>
+
 - Developed an integrated Single Sign-On (SSO) login library to streamline user authentication processes effectively
 - Implemented OAuth 2.0 authentication to authorize user access and securely protect sensitive data.
 - Developed a cross-platform application with React Native to hold a survey on the organization’s internal events.
@@ -65,6 +85,10 @@ One of the exciting aspects of this role was developing for **Android TV**, wher
 ### Junior Android Developer
 **InfoTech International Company, Iran**  
 *Feb 2015 - Nov 2017*
+
+<div style="text-align: left;">
+  <img src="assets/images/company_logo/infotech_ic.png" alt="Company Logo" width="150" height="400">
+</div>
 
 - Worked with specialized Android NFC-enabled devices named FAMACO.
 - Integrated Google Maps and Bluetooth functionalities into Android applications.
