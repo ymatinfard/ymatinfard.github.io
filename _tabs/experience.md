@@ -6,7 +6,7 @@ order: 4
 
 
 
-### Senior Android Developer
+## <span class="header">Senior Android Developer</span>
 **Sadad Informatics Corporation, Iran**  
 _Remote_  
 *Jun 2022 - Present*
@@ -30,7 +30,7 @@ One of my key responsibilities was leading the transition of the project from **
 
 Another important task I contributed to was the implementation of **server-driven UI** for the main part of the application, enabling **dynamic customization per user**. This not only simplified **A/B testing** but also allowed us to handle **feature flags** efficiently, ensuring that features could be rolled out gradually and any potential failures managed with ease.
 
-### Senior Android Developer
+## <span class="header">Senior Android Developer</span>
 **Exbito Company, Iran**  
 *Jul 2021 - Jun 2022* [Exbito App](https://play.google.com/store/apps/details?id=com.exbito.app&hl=en&pli=1)
 
@@ -50,7 +50,7 @@ Performance and user experience were core values that shaped our development pro
 
 In the fast-paced startup environment, I gained valuable experience in concurrency management, performance optimization, and **rigorous testing** standards—skills that have significantly enhanced my abilities as a Senior Android Developer.
 
-### Android Developer
+## <span class="header">Android Developer</span>
 **FFW Company, Germany**  
 *July 2020 - Jan 2021* [ZDFMediathek App](https://play.google.com/store/apps/details?id=com.zdf.android.mediathek&hl=en)
 
@@ -70,7 +70,7 @@ During my time on the project, I focused on building and refining **custom views
 
 One of the exciting aspects of this role was developing for **Android TV**, where I adapted the ZDFMediathek app for a different screen format and interaction style. Android TV required unique layout adjustments and UX considerations to ensure that the app looked and worked smoothly on larger screens, all while maintaining an optimized streaming experience. This adaptation process taught me a great deal about optimizing applications for different device types and screen sizes, especially in a media context where resolution and responsiveness are key.
 
-### Android Developer
+## <span class="header">Android Developer</span>
 **Pars Tasmim Company, Iran**  
 *Nov 2017 - Jan 2020*
 
@@ -82,7 +82,7 @@ One of the exciting aspects of this role was developing for **Android TV**, wher
 - Implemented OAuth 2.0 authentication to authorize user access and securely protect sensitive data.
 - Developed a cross-platform application with React Native to hold a survey on the organization’s internal events.
 
-### Junior Android Developer
+## <span class="header">Junior Android Developer</span>
 **InfoTech International Company, Iran**  
 *Feb 2015 - Nov 2017*
 
@@ -94,4 +94,10 @@ One of the exciting aspects of this role was developing for **Android TV**, wher
 - Integrated Google Maps and Bluetooth functionalities into Android applications.
 - Gained familiarity with banking regulatory standards and audits.
 
-
+<style>
+  .header {
+    color: #333;
+    font-weight: bold;
+    font-size: 1.5em;
+  }
+</style>
