@@ -8,9 +8,9 @@ order: 2
 <div class="project-cards">
   <!-- HappyCrypto Project -->
   <div class="project-card">
-    <h2>HappyCrypto</h2>
+    <h2>Happy Crypto</h2>
     <img src="https://github.com/ymatinfard/Crypto/blob/develop/screenshot/market_screenshot.png?raw=true" alt="HappyCrypto Screenshot">
-    <p>This project demonstrates advanced techniques in data caching, UI design, and dynamic UI rendering with a Server-Driven UI approach, ensuring flexible, real-time updates without app updates.</p>
+    <p>HappyCrypto: An Android app demonstrating advanced techniques in data caching, UI design, and dynamic UI rendering through a Server-Driven UI approach. This enables flexible, real-time updates without requiring app releases, ensuring users have the most current experience.</p>
     <a href="https://github.com/ymatinfard/Crypto" target="_blank">View on GitHub</a>
   </div>
 
@@ -18,7 +18,7 @@ order: 2
   <div class="project-card">
     <h2>Turbo Car</h2>
     <img src="https://github.com/ymatinfard/TurboCar/blob/develop/turbocar_screenshot.jpg?raw=true" alt="Turbo Car Screenshot">
-    <p>TurboCar is a 2D car game developed using Jetpack Compose. User directs the car left or right to avoid car crashes.</p>
+    <p>TurboCar: A 2D car game built with Jetpack Compose, where players guide the car left or right to avoid crashes</p>
     <a href="https://github.com/ymatinfard/TurboCar/tree/develop" target="_blank">View on GitHub</a>
   </div>
 
@@ -26,12 +26,19 @@ order: 2
   <div class="project-card">
     <h2>Happy Store</h2>
     <img src="https://github.com/ymatinfard/HappyStore-ecommerceApp/blob/develop/screenshots/happystore_main_screenshot.png?raw=true" alt="Happy Store Screenshot">
-    <p>This is a comprehensive sample Android application demonstrating various modern development practices and technologies, including Clean Architecture, Modularization, MVI pattern, Jetpack Compose, Room Persistence Library, Hilt for dependency injection, Work Manager for background tasks, Unit Testing, and GitHub Actions for continuous integration.</p>
+    <p>HappyStore: A feature-rich sample Android application showcasing a range of modern development practices, including Clean Architecture, Modularization, the MVI (Model-View-Intent) pattern, Jetpack Compose, Room Persistence Library, Hilt for dependency injection, WorkManager for background tasks, Unit Testing, and GitHub Actions for continuous integration.</p>
     <a href="https://github.com/ymatinfard/HappyStore-ecommerceApp" target="_blank">View on GitHub</a>
   </div>
 
+  <!-- Amazing Shop -->
+  <div class="project-card">
+    <h2>Amazing Shop</h2>
+    <img src="https://github.com/ymatinfard/AmazingShop/blob/develop/screenshots/screenshot_catalog.png?raw=true" alt="Amazing shop">
+    <p>AmazingShop: A scalable Android e-commerce application built in Kotlin using Jetpack Compose. Following the MVVM (Model-View-ViewModel) architecture, it enables users to browse products, add items to the wishlist, and manage the cart. The app leverages Room Database for state persistence, Hilt for dependency injection, and features smooth shared transition animations between screens to enhance user experience.</p>
+    <a href="https://github.com/ymatinfard/AmazingShop" target="_blank">View on Github</a>
+  </div>
+
 <style>
-/* Title Styling */
 .highlighted-title {
   font-size: 2.5em;
   font-weight: bold;
@@ -40,7 +47,6 @@ order: 2
   text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
 }
 
-/* Project Cards Container */
 .project-cards {
   display: flex;
   flex-wrap: wrap;
@@ -49,7 +55,6 @@ order: 2
   margin-top: 20px;
 }
 
-/* Individual Project Card Styling */
 .project-card {
   width: 300px;
   background: rgba(255, 255, 255, 0.1);
@@ -95,7 +100,7 @@ order: 2
 .project-card a:hover {
   background-color: #00000;
 }
-
 </style>
+
 </div>
 
