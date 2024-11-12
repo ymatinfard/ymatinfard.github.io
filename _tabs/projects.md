@@ -38,6 +38,14 @@ order: 2
     <a href="https://github.com/ymatinfard/AmazingShop" target="_blank">View on Github</a>
   </div>
 
+  <!-- Happy Chat -->
+  <div class="project-card">
+    <h2>Happy Chat</h2>
+    <img src="https://github.com/ymatinfard/HappyChat/blob/develop/screenshots/happychat_screenshot.png?raw=true" alt="Amazing shop">
+    <p>Happy Chat: HappyChat is a feature-rich Android chat application that allows users to communicate with text messages, share photos, and send voice messages in real-time</p>
+    <a href="https://github.com/ymatinfard/HappyChat" target="_blank">View on Github</a>
+  </div>
+
 <style>
 .highlighted-title {
   font-size: 2.5em;
