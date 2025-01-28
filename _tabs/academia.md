@@ -21,3 +21,11 @@ order: 5
 ### Achievements
 - Participated in the ACM International Collegiate Programming Contest (ICPC) Regional Contest in 2009 as a member of the Tabriz Technical College team.
 
+![context image](/assets/images/academia/acm_photo.jpg){: width="400" height="500" }
+
+
+
+
+
+
+
