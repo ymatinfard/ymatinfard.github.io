@@ -6,7 +6,7 @@ order: 2
 <h1 class="highlighted-title">My Ongoing Projects</h1>
 
 <div class="project-cards">
-  <!-- HappyCrypto Project -->
+  <!-- Crypto Project -->
   <div class="project-card">
     <h2>Happy Crypto</h2>
     <img src="https://github.com/ymatinfard/Crypto/blob/develop/screenshot/market_screenshot.png?raw=true" alt="HappyCrypto Screenshot">
