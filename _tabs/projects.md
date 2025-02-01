@@ -17,7 +17,7 @@ order: 2
   <!-- Turbo Car Project -->
   <div class="project-card">
     <h2>Turbo Car</h2>
-    <img src="https://github.com/ymatinfard/TurboCar/blob/develop/turbocar_screenshot.jpg?raw=true" alt="Turbo Car Screenshot">
+    <img src="https://github.com/ymatinfard/TurboCar/blob/develop/screenshots/turbocar_screenshot.jpg?raw=true" alt="Turbo Car Screenshot">
     <p>TurboCar: A 2D car game built with Jetpack Compose, where players guide the car left or right to avoid crashes</p>
     <a href="https://github.com/ymatinfard/TurboCar/tree/develop" target="_blank">View on GitHub</a>
   </div>
