@@ -41,8 +41,8 @@ order: 2
   <!-- Happy Chat -->
   <div class="project-card">
     <h2>Happy Chat</h2>
-    <img src="https://github.com/ymatinfard/HappyChat/blob/develop/screenshots/happychat_screenshot.png?raw=true" alt="Amazing shop">
-    <p>Happy Chat: HappyChat is a feature-rich Android chat application that allows users to communicate with text messages, share photos, and send voice messages in real-time</p>
+    <img src="https://raw.githubusercontent.com/ymatinfard/Conversational-AI-Android/develop/screenshots/conversational_ai_screen.gif" alt="Amazing shop">
+    <p>HappyChat is a conversational AI Android application that enables users to place orders simply by chatting with the AI.</p>
     <a href="https://github.com/ymatinfard/HappyChat" target="_blank">View on Github</a>
   </div>
 
